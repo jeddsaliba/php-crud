@@ -8,7 +8,7 @@ Open `db.php` and change the `$server`, `$database`, `$username` and `$password`
 Run the php server by running this command:
 
 ```bash
-php -S localhost
+php -S localhost:8000
 ```
 
 ## Features
