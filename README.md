@@ -7,12 +7,13 @@ php -S localhost
 
 ## Features
 
-- Fetch Data
+- [Fetch Data](#fetch-data)<br>
 - Insert/Store Data
 - Fetch Single Record
 - Update Data
 - Delete Data
 
+<a name="fetch-data"></a>
 ## Fetch Data
 
 **URL**
