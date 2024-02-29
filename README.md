@@ -80,6 +80,7 @@ GET
 ]
 ```
 
+<a name="insert-store-data"></a>
 ## Insert/Store Data
 
 **URL**
@@ -117,6 +118,7 @@ POST
 }
 ```
 
+<a name="fetch-single-record"></a>
 ## Fetch Single Record
 
 **URL**
@@ -145,6 +147,7 @@ GET
 }
 ```
 
+<a name="update-data"></a>
 ## Update Data
 
 **URL**
@@ -183,6 +186,7 @@ PUT
 }
 ```
 
+<a name="delete-data"></a>
 ## Delete Data
 
 **URL**
