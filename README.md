@@ -1,3 +1,6 @@
+## Import the MySQL Database
+Download and import the database here.
+
 ## Run Development Server
 Run the php server by running this command:
 
