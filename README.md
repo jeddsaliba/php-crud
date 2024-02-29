@@ -1,5 +1,8 @@
 ## Import the MySQL Database
-Download and import the database here.
+Download and import the database [here](https://github.com/jeddsaliba/php-crud/tree/master/database).
+
+## Change Database Credentials
+Open `db.php` and change the `$server`, `$database`, `$username` and `$password`.
 
 ## Run Development Server
 Run the php server by running this command:
